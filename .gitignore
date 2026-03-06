@@ -27,3 +27,4 @@ dist-ssr
 ./config.env
 .gitattributes
 .vite
+.env

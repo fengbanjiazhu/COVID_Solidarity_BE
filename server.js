@@ -7,7 +7,7 @@ import rateLimit from "express-rate-limit";
 // import { xss } from "express-xss-sanitizer";
 
 // Routes
-import pathRoute from "./Routes/pathRoute.js";
+import userRoute from "./Routes/userRoute.js";
 
 const app = express();
 
